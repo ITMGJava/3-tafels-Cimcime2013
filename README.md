@@ -12,6 +12,8 @@
 8 x 8 = 64
 9 x 8 = 72
 10 x 8 = 80
+
+
 ```
 - Schrijf nu een programma dat de tafel van 93 print. Gebruik voor het getal 93 een variabele.
 - Verander het programma zodat het een andere tafel print zoals de tafel van 55, 13 of 22.
